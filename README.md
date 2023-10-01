@@ -6,7 +6,7 @@ This project is a Python-based web application that predicts housing prices in C
 
 The project demonstrates how to build a simple web application using Flask, create a machine learning model with scikit-learn, and deploy it using platforms like Heroku.
 
-
+![Alt text](california_housing_pred.png)
 
 ## Software and Tools Required
 
