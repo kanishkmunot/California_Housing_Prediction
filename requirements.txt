@@ -3,8 +3,5 @@ sklearn
 pandas
 numpy
 matplotlib
-<<<<<<< HEAD
 gunicorn
-=======
-gunicorn
->>>>>>> c06352deb8dd2f3084505fd39bb1515e76fc3927
+
