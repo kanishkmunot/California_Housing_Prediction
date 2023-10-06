@@ -18,9 +18,6 @@ Before running or deploying the application, ensure you have the following softw
 2. [VS Code IDE](https://code.visualstudio.com/)
    - A code editor for developing and modifying Python code.
 
-3. [Heroku Account](https://heroku.com)
-   - A cloud platform for deploying web applications.
-
 ## Setting Up the Development Environment
 
 To create a new Python environment, you can use Conda:
